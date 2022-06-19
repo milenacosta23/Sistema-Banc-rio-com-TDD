@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.sistemabancario.model.ContaTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.054 s <<< FAILURE! - in com.sistemabancario.model.ContaTest
+com.sistemabancario.model.ContaTest.setNumeroR1  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.IllegalArgumentException: Número deve estar no formato 99999-9
+	at com.sistemabancario.model.ContaTest.setNumeroR1(ContaTest.java:11)
+
